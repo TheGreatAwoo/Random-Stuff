@@ -1,0 +1,31 @@
+ class LinkedList{ 
+ int Test = 11; 
+ Node Head;
+ Node Current = Head;
+
+class Node{
+Node Next;
+int Value = -999;
+String Other = null; }
+
+
+void CurrentValueSet(int i){
+System.out.println("help");
+Current.Value=i;
+return;
+}
+
+void CurrentOtherSet(String i){
+Current.Other=i;
+return;
+}
+
+void CurrentNextSet(){
+Current=Current.Next;
+return;
+}
+
+void print(){System.out.println("HappyMeal");return;}
+
+
+}
