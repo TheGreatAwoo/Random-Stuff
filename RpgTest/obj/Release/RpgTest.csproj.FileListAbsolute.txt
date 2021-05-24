@@ -1,0 +1,10 @@
+C:\Users\Declan\source\repos\RpgTest\bin\Release\RpgTest.exe.config
+C:\Users\Declan\source\repos\RpgTest\bin\Release\RpgTest.exe
+C:\Users\Declan\source\repos\RpgTest\bin\Release\RpgTest.pdb
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.csprojAssemblyReference.cache
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.Properties.Resources.resources
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.csproj.GenerateResource.cache
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.csproj.CoreCompileInputs.cache
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.exe
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.pdb
+C:\Users\Declan\source\repos\RpgTest\obj\Release\RpgTest.FormBack.resources
